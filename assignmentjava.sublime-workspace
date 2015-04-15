@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tas",
+				"task"
+			],
+			[
+				"task",
+				"task_params"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"winn",
+				"winner_id"
+			],
+			[
+				"wi",
+				"winner_id"
+			],
+			[
+				"win",
+				"winner_user"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"form_data"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"e",
+				"end	end (ERB)"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"Task",
+				"Task"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"jaC",
+				"jackpot"
+			],
+			[
+				"jack",
+				"jackpots_url"
+			],
+			[
+				"j",
+				"jackpots_url"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"mov",
+				"movies"
+			],
+			[
+				"tr",
+				"trailerdate"
+			],
+			[
+				"movie",
+				"movie_params"
+			],
+			[
+				"orde",
+				"order_no"
+			],
+			[
+				"ra",
+				"rating"
+			],
+			[
+				"n",
+				"name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".ruby-gemset",
+			"settings":
+			{
+				"buffer_size": 14,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "IN",
+		"selected_items":
+		[
+			[
+				"IN",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"JAVASC",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/user/projects/assignmentjava"
+	],
+	"file_history":
+	[
+		"/home/user/projects/assignmentjava/.ruby-version",
+		"/home/user/projects/bootstrap_raffling/app/assets/stylesheets/task.css.scss",
+		"/home/user/projects/bootstrap_raffling/Raffling/README.md",
+		"/home/user/projects/bootstrap_raffling/app/assets/javascripts/application.js",
+		"/home/user/projects/bootstrap_raffling/app/assets/stylesheets/application.css.scss",
+		"/home/user/projects/bootstrap_raffling/app/assets/stylesheets/layout.css.scss",
+		"/home/user/projects/bootstrap_raffling/app/views/layouts/application.html.erb",
+		"/home/user/projects/bootstrap_raffling/app/views/tasks/_task.html.erb",
+		"/home/user/projects/bootstrap_raffling/app/assets/javascripts/tasks.ks",
+		"/home/user/projects/bootstrap_raffling/app/assets/stylesheets/layout.css.scss~",
+		"/home/user/projects/bootstrap_raffling/app/views/tasks/index.html.erb",
+		"/home/user/projects/bootstrap_raffling/app/assets/images/winner.jpg",
+		"/home/user/projects/bootstrap_raffling/db/migrate/update_columns_datatype.rb",
+		"/home/user/projects/bootstrap_raffling/app/models/task.rb",
+		"/home/user/projects/bootstrap_raffling/README.md",
+		"/home/user/projects/bootstrap_raffling/Rakefile",
+		"/home/user/projects/bootstrap_raffling/config.ru",
+		"/home/user/projects/bootstrap_raffling/.gitignore",
+		"/home/user/projects/bootstrap_raffling/Gemfile",
+		"/home/user/projects/bootstrap_raffling/.ruby-version",
+		"/home/user/projects/bootstrap_raffling/config/initializers/cookies_serializer.rb",
+		"/home/user/projects/bootstrap_raffling/config/initializers/filter_parameter_logging.rb",
+		"/home/user/projects/bootstrap_raffling/config/initializers/session_store.rb",
+		"/home/user/projects/bootstrap_raffling/config/initializers/simple_form.rb",
+		"/home/user/projects/bootstrap_raffling/config/initializers/simple_form_bootstrap.rb",
+		"/home/user/projects/bootstrap_raffling/config/initializers/wrap_parameters.rb",
+		"/home/user/projects/bootstrap_raffling/app/controllers/tasks_controller.rb",
+		"/home/user/projects/bootstrap_raffling/db/migrate/update_columns_datatype",
+		"/home/user/projects/bootstrap_raffling/db/development.sqlite3",
+		"/home/user/projects/bootstrap_raffling/app/assets/javascripts/tasks.js",
+		"/home/user/projects/raffling/app/assets/stylesheets/home.css.scss",
+		"/home/user/projects/raffling/app/controllers/home_controller.rb",
+		"/home/user/projects/raffling/app/views/layouts/application.html.erb",
+		"/home/user/projects/raffling/.ruby-gemset",
+		"/home/user/projects/raffling/README.rdoc",
+		"/home/user/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/user/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/user/projects/raffling/db/seeds.rb",
+		"/home/user/projects/raffling/config/routes.rb",
+		"/home/user/emidsProject/rai-jax-master/app/assets/javascripts/tasks.js",
+		"/home/user/emidsProject/rai-jax-master/app/assets/javascripts/application.js",
+		"/home/user/emidsProject/rai-jax-master/config/routes.rb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/new.js.erb",
+		"/home/user/emidsProject/rai-jax-master/db/schema.rb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/index.html.erb",
+		"/home/user/emidsProject/rai-jax-master/app/views/layouts/application.html.erb",
+		"/home/user/emidsProject/rai-jax-master/app/views/layouts/_header.html.erb",
+		"/home/user/emidsProject/rai-jax-master/app/assets/stylesheets/layout.css.scss",
+		"/home/user/emidsProject/rai-jax-master/Gemfile",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/_datetimepicker.js",
+		"/home/user/emidsProject/rai-jax-master/db/migrate/20140620130316_create_tasks.rb",
+		"/home/user/emidsProject/rai-jax-master/app/inputs/datetimepicker_input.rb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/_task.html.erb",
+		"/home/user/emidsProject/rai-jax-master/db/development.sqlite3",
+		"/home/user/emidsProject/rai-jax-master/app/controllers/tasks_controller.rb",
+		"/home/user/emidsProject/rai-jax-master/app/models/task.rb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/destroy.js.erb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/_form.html.erb",
+		"/home/user/emidsProject/rai-jax-master/db/seeds.rb",
+		"/home/user/emidsProject/rai-jax-master/config/environment.rb",
+		"/home/user/emidsProject/rai-jax-master/db/migrate/20150406045626_winner_to_tasks.rb",
+		"/home/user/emidsProject/rai-jax-master/db/migrate/20150406045615_name_to_tasks.rb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/update.js.erb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/edit.js.erb",
+		"/home/user/emidsProject/rai-jax-master/app/views/tasks/create.js.erb",
+		"/home/user/assignments/angular1/app/controllers/application_controller.rb",
+		"/home/user/assignments/angular1/config/routes.rb",
+		"/home/user/assignments/angular1/app/assets/javascripts/jackpots.js",
+		"/home/user/assignments/angular1/app/views/jackpots/show.html.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/index.json.jbuilder",
+		"/home/user/assignments/angular1/app/assets/javascripts/new.js.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/index.html.erb",
+		"/home/user/assignments/angular1/app/controllers/jackpots_controller.rb",
+		"/home/user/assignments/angular1/app/helpers/application_helper.rb",
+		"/home/user/assignments/angular1/app/helpers/jackpots_helper.rb",
+		"/home/user/assignments/angular1/app/views/jackpots/_form.html.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/new.html.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/edit.html.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/show.json.jbuilder",
+		"/home/user/assignments/angular1/app/views/layouts/application.html.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/create.js.erb",
+		"/home/user/assignments/angular1/app/views/jackpots/new.js.erb",
+		"/home/user/sample/app/assets/javascripts/main.js",
+		"/home/user/sample/app/assets/stylesheets/main.scss",
+		"/home/user/sample/config/routes.rb",
+		"/home/user/sample/app/views/layouts/application.html.erb",
+		"/home/user/emidsProject/movie_applications/app/assets/stylesheets/movies.scss",
+		"/home/user/emidsProject/movie_applications/app/views/movies/new.js.erb",
+		"/home/user/emidsProject/movie_applications/app/views/movies/create.js.erb",
+		"/home/user/emidsProject/movie_applications/app/assets/javascripts/index.js.erb",
+		"/home/user/emids/movie_applications/app/views/movies/show.html.erb",
+		"/home/user/emids/movie_applications/app/views/movies/new.html.erb",
+		"/home/user/emids/movie_applications/app/views/movies/index.html.erb",
+		"/home/user/emids/movie_applications/app/views/movies/edit.html.erb",
+		"/home/user/emids/movie_applications/app/views/movies/create.js.erb",
+		"/home/user/emids/movie_applications/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/home/user/emids/movie_applications/app/assets/javascripts/bootstrap.js.coffee",
+		"/home/user/Applications/Projects/movie_applications/app/views/movies/new.html.erb",
+		"/home/user/Applications/Projects/movie_applications/config/routes.rb",
+		"/home/user/Applications/Projects/movie_applications/app/models/movie.rb",
+		"/home/user/Applications/Projects/movie_applications/app/views/movies/edit.html.erb",
+		"/home/user/Applications/Projects/movie_applications/app/views/movies/show.html.erb",
+		"/home/user/Applications/Projects/movie_applications/app/views/movies/index.html.erb",
+		"/home/user/Applications/Projects/movie_applications/app/controllers/movies_controller.rb",
+		"/home/user/Applications/Projects/movie_applications/app/views/movies/_form.html.erb",
+		"/home/user/Applications/Projects/movie_applications/app/views/application.html.erb/index.html.erb",
+		"/home/user/Applications/Projects/movie_applications/db/migrate/20150305165129_create_movies.rb",
+		"/home/user/Applications/Projects/movie_applications/db/migrate/20150312013240_add_trailedate_to_movies.rb",
+		"/home/user/Applications/Projects/movie_applications/db/migrate/20150316024104_add_rating_to_movies.rb",
+		"/home/user/Applications/Projects/movie_applications/db/migrate/20150316044806_add_order_no_to_movies.rb",
+		"/home/user/Applications/Projects/movie_applications/app/assets/stylesheets/movies.scss",
+		"/home/user/Applications/Projects/movie_applications/app/assets/javascripts/movies.js",
+		"/home/user/Applications/Projects/movie_applications/app/assets/stylesheets/application.css",
+		"/home/user/Applications/Projects/movie_applications/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/home/user/Applications/Projects/movie_applications/app/assets/javascripts/bootstrap.js.coffee",
+		"/home/user/Applications/Projects/movie_applications/Gemfile",
+		"/home/user/Applications/Projects/movie_applications/.idea/runConfigurations/test__movie_application.xml",
+		"/home/user/Applications/Projects/movie_applications/.idea/runConfigurations/spec__movie_application.xml",
+		"/home/user/Applications/Projects/movie_applications/.idea/runConfigurations/Development__movie_application.xml",
+		"/home/user/Applications/Projects/movie_applications/.idea/runConfigurations/Production__movie_application.xml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item",
+			"items",
+			"user_form",
+			"submit",
+			"user_form",
+			"button",
+			"\"\n\"",
+			"\n",
+			"Mayor",
+			"td",
+			"task",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".ruby-gemset",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "assignmentjava.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home.css",
+				"app/assets/stylesheets/home.css.scss"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"home.js",
+				"app/assets/javascripts/home.js.coffee"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"home.cs",
+				"app/assets/stylesheets/home.css.scss"
+			],
+			[
+				"home",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 452.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
